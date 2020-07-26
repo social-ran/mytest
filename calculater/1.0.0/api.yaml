@@ -15,12 +15,12 @@ actions:
         schema:
           type: number
       - name: num2
-          description: another number
-          multiline: false
-          required: true
-          schema:
-            type: number
-          example: number(3)
+        description: another number
+        multiline: false
+        required: true
+        schema:
+          type: number
+        example: number(3)
     returns:
       schema:
         type: number
@@ -35,12 +35,12 @@ actions:
         schema:
           type: number
       - name: num2
-          description: another number
-          multiline: false
-          required: true
-          schema:
-            type: number
-          example: number(3)
+        description: another number
+        multiline: false
+        required: true
+        schema:
+          type: number
+        example: number(3)
     returns:
       schema:
         type: number
@@ -55,12 +55,12 @@ actions:
         schema:
           type: number
       - name: num2
-          description: another number
-          multiline: false
-          required: true
-          schema:
-            type: number
-          example: number(3)
+        description: another number
+        multiline: false
+        required: true
+        schema:
+          type: number
+        example: number(3)
     returns:
       schema:
         type: number
@@ -75,12 +75,12 @@ actions:
         schema:
           type: number
       - name: num2
-          description: another number
-          multiline: false
-          required: true
-          schema:
-            type: number
-          example: number(3)
+        description: another number
+        multiline: false
+        required: true
+        schema:
+          type: number
+        example: number(3)
     returns:
       schema:
         type: number
