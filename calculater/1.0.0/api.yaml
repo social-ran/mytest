@@ -3,9 +3,9 @@ name: calculater
 description: This is a calculater
 
 contact_info:
-  name: "@frikkylikeme"
+  name: "@social_ran"
   url: https://shuffler.io
-  email: frikky@shuffler.io
+  email: "ran131110@163.com"
   
 actions:
   - name: add
