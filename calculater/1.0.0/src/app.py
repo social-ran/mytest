@@ -1,4 +1,5 @@
 import asyncio
+from walkoff_app_sdk.app_base import AppBase
 
 class Calculater(AppBase):
     __version__ = "1.0.0"
@@ -7,7 +8,7 @@ class Calculater(AppBase):
         super().__init__(redis, logger, console_logger)
 
     async def add(self,num1,num2):
-        return str(num1st + num2)
+        return str(num1 + num2)
 
     async def sub(self, num1, num2):
         return str(num1 - num2)
