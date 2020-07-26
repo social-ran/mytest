@@ -35,7 +35,7 @@ actions:
         description: one number
         multiline: false
         required: true
-        example: number(2)
+        example: number(3)
         schema:
           type: number
       - name: num2
@@ -44,7 +44,7 @@ actions:
         required: true
         schema:
           type: number
-        example: number(3)
+        example: number(2)
     returns:
       schema:
         type: number
@@ -55,7 +55,7 @@ actions:
         description: one number
         multiline: false
         required: true
-        example: number(2)
+        example: number(3)
         schema:
           type: number
       - name: num2
@@ -64,7 +64,7 @@ actions:
         required: true
         schema:
           type: number
-        example: number(3)
+        example: number(2)
     returns:
       schema:
         type: number
@@ -75,7 +75,7 @@ actions:
         description: one number
         multiline: false
         required: true
-        example: number(2)
+        example: number(3)
         schema:
           type: number
       - name: num2
@@ -84,7 +84,7 @@ actions:
         required: true
         schema:
           type: number
-        example: number(3)
+        example: number(2)
     returns:
       schema:
         type: number
